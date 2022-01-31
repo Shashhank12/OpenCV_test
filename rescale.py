@@ -1,5 +1,4 @@
 import cv2 as cv
-
  
 #Creates a function(method) that rescales a frame to 0.75% of its original
 def rescaleFrame(frame, scale = 0.75):
